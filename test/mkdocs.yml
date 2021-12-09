@@ -1,0 +1,7 @@
+site_name: Informatica II
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
