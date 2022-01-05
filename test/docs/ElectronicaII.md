@@ -1,3 +1,4 @@
+##UNIDAD 1
 #APE 1.3-Contador de dos cifra
 ##En la presente actividad se va a desarrollar la simulación de un contador decimal de dos cifras, 0 a 99.
 - Elige los componentes electrónicos o CI que cumplen con las siguientes condiciones: temporizador, que realicen un conteo, que muestren información.
